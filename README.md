@@ -9,7 +9,7 @@ More about Databases
 Transactions -> https://kghworks.tistory.com/89  
 Normalization -> https://kghworks.tistory.com/76  
 
-Learn about APIs
+Learn about APIs  
 Authentication -> https://kghworks.tistory.com/123  
 Cookie Bqased -> https://kghworks.tistory.com/37  
 JWT -> https://kghworks.tistory.com/118  
