@@ -1,7 +1,9 @@
 
 What is HTTP -> https://kghworks.tistory.com/95  
-
-Java -> https://kghworks.tistory.com/category/Programming/JAVA
+  
+Learn a Language
+Java -> https://kghworks.tistory.com/category/Programming/JAVA  
+Javascript -> https://kghworks.tistory.com/category/Programming/HTML%2C%20javascript
 
 Relational Databases -> https://kghworks.tistory.com/category/Programming/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8B%9C%EC%8A%A4%ED%85%9C  
 
