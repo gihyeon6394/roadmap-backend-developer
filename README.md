@@ -1,5 +1,7 @@
 
+Internet  
 What is HTTP -> https://kghworks.tistory.com/95  
+DNS and how it works? -> https://kghworks.tistory.com/126  
   
 Learn a Language
 Java -> https://kghworks.tistory.com/category/Programming/JAVA  
