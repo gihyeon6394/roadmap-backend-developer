@@ -1,4 +1,4 @@
-백엔드 로드맵의 노드 별 개인 아티클 (혹은 github commit history)을 올리고 있습니다.  
+백엔드 로드맵의 노드 별 개인 아티클을 만듭니다.   
 [개인 블로그](https://kghworks.tistory.com/)에 포스팅 중이며, 필요에 따라 소스 코드 (github)를 첨부합니다.  
   
     
@@ -23,7 +23,7 @@
 
 <h2>More about Databases</h2>  
 
-[Transactions](https://kghworks.tistory.com/89)  
+[Transactions](https://kghworks.tistory.com/89) [@Transactional in spring](https://kghworks.tistory.com/106)  
 [Normalization](https://kghworks.tistory.com/76)  
 
 <h2>Learn about APIs</h2>  
@@ -32,6 +32,10 @@
 [Cookie Based](https://kghworks.tistory.com/37)   
 [JWT](https://kghworks.tistory.com/118)   
   
+<h2>Web Security Knowledge</h2>  
+
+[CORS](https://kghworks.tistory.com/88)   
+
 <h2>Web Servers</h2>  
 
 [Apache](https://kghworks.tistory.com/113)   
