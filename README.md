@@ -1,5 +1,5 @@
 백엔드 로드맵의 노드 별 개인 아티클 (혹은 github commit history)을 올리고 있습니다.  
-[개인 블로그](https://kghworks.tistory.com/)에 포스팅 중이며, 필요에 따라 소스 코드 (github)을 첨부합니다.  
+[개인 블로그](https://kghworks.tistory.com/)에 포스팅 중이며, 필요에 따라 소스 코드 (github)를 첨부합니다.  
   
     
 <h2>Internet</h2>  
