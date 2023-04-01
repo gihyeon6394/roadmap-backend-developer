@@ -1,5 +1,5 @@
-백엔드 로드맵의 노드 별 개인 아티클을 만듭니다.   
-[개인 블로그](https://kghworks.tistory.com/)에 포스팅 중이며, 필요에 따라 소스 코드 (github)를 첨부합니다.  
+백엔드 로드맵의 노드 별 아티클을 만듭니다.   
+[개인 블로그](https://kghworks.tistory.com/)에 포스팅 중이며, 필요 시 소스 코드 (github)를 첨부합니다.  
   
     
 <h2>Internet</h2>  
@@ -23,7 +23,9 @@
 
 <h2>More about Databases</h2>  
 
-[Transactions](https://kghworks.tistory.com/89) [@Transactional in spring](https://kghworks.tistory.com/106)  
+[Transactions](https://kghworks.tistory.com/89)  
+[@Transactional in spring](https://kghworks.tistory.com/106) [(github)](https://github.com/gihyeon6394/study_spring/tree/main/src/main/java/com/kghdev/transaction)  
+    
 [Normalization](https://kghworks.tistory.com/76)  
 
 <h2>Learn about APIs</h2>  
