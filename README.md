@@ -9,6 +9,11 @@
 - [HTTP 완벽 가이드](https://github.com/gihyeon6394/book/tree/main/http-the-definitive-guide)  
 - [Blog : HTTP 프로토콜 초간단 요약](https://kghworks.tistory.com/95)  
 
+
+<h3>DNS and how it works?</h3>
+
+- [Blog : DNS는 어떻게 동작하는가](https://kghworks.tistory.com/126)  
+
 <h2>Learn a Language</h2>
 
 <h3>Java</h3>
