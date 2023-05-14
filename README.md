@@ -32,6 +32,20 @@
 - [GitHub](https://github.com/gihyeon6394)  
 - [Blog : GIT 좀 더 이해하기](https://kghworks.tistory.com/search/GIT%20%EC%A2%80%20%EB%8D%94%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
+
+<h2>OS and General Knowledge</h2>
+
+<h3>How OSs work in General</h3>
+
+- [Blog : 운영체제의 개요 - 운영체제의 개념과 구성](https://kghworks.tistory.com/60)  
+
+<h3>Threads and Concurrency</h3>
+
+- [Blog : 프로세스 (Process)와 스레드 (Thread)](https://kghworks.tistory.com/62)  
+- [Blog : 병행 프로세스](https://kghworks.tistory.com/134)  
+
+
+
 <h2>Relational Database</h2>
 
 - [Blog: 데이터베이스 시스템](https://kghworks.tistory.com/category/Programming/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8B%9C%EC%8A%A4%ED%85%9C)  
