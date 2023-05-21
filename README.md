@@ -4,6 +4,10 @@
 
 ## Internet</h2>
 
+### How does the internet work?
+
+- [network](https://github.com/gihyeon6394/book/tree/main/network)
+
 ### What is HTTP
 
 - [HTTP 완벽 가이드](https://github.com/gihyeon6394/book/tree/main/http-the-definitive-guide)
