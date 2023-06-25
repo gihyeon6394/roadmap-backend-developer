@@ -29,6 +29,10 @@
 
 - [Blog : Javascript](https://kghworks.tistory.com/category/Programming/HTML%2C%20javascript)
 
+### Python
+
+- [GitHub hello-python](https://github.com/gihyeon6394/hello-python)
+
 ## Version Control Systems</h2>
 
 ### Git
@@ -80,11 +84,18 @@
 
 - [Blog : JWT (JSON Web Token) 도입기 - JWT는 만능해결사인가](https://kghworks.tistory.com/118)
 
-## Web Security Knowledge</h2>
+## Web Security Knowledge
 
 ### CORS
 
 - [Blog : CORS에 대하여](https://kghworks.tistory.com/88)
+
+## Testing
+
+### Unit Testing
+
+- [Github Junit5-action] (https://github.com/gihyeon6394/Junit5-action)
+- [Blog : 테스트 코드 - 테스트](https://kghworks.tistory.com/122)
 
 ## Containerization vs. Virtualization
 
