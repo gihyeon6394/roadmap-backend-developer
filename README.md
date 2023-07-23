@@ -63,7 +63,7 @@
 
 ### ORMs
 
-- [Github 자바 ORM 표준 JPA 프로그래밍][https://github.com/gihyeon6394/Junit5-action](https://github.com/gihyeon6394/hello-jpa)
+- [Github 자바 ORM 표준 JPA 프로그래밍](https://github.com/gihyeon6394/hello-jpa)
 
 ### Transactions
 
