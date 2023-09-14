@@ -23,6 +23,7 @@
 ### Java
 
 - [Effective Java](https://github.com/gihyeon6394/study-effective-java)
+- [Github Modern Java in ACTION](https://github.com/gihyeon6394/modern-java-in-action)
 - [Blog : Java](https://kghworks.tistory.com/category/Programming/JAVA)
 
 ### Javascript
@@ -64,6 +65,7 @@
 ### ORMs
 
 - [Github 자바 ORM 표준 JPA 프로그래밍](https://github.com/gihyeon6394/hello-jpa)
+- [Blog : Querydsl 사용해서 스칼라 서브쿼리 작성하기](https://kghworks.tistory.com/138)
 
 ### Transactions
 
