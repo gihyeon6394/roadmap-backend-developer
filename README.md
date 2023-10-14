@@ -58,7 +58,12 @@
 ## Relational Database
 
 - [Blog: 데이터베이스 시스템](https://kghworks.tistory.com/category/Programming/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
-- [데이터 중심 애플리케이션 설계](https://github.com/gihyeon6394/book/tree/main/ddia)
+
+### Oracle
+
+- [[개발일지] 채번(採番) 개발하기](https://kghworks.tistory.com/148)
+- [[개발일지] Java application에서 RDBMS에 bulk insert](https://kghworks.tistory.com/144)
+
 
 ## More about Databases
 
