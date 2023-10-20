@@ -87,7 +87,8 @@
 
 - [Blog : 인덱스 (Index) 1장 : 필요성과 기본 컨셉](https://kghworks.tistory.com/149)
 - [Blog : 인덱스 (Index) 2장 : Ordered Index](https://kghworks.tistory.com/150)
-- [Blog : 인덱스 (Index) 3장 : B+-Tree Index 기본](https://kghworks.tistory.com/151)  
+- [Blog : 인덱스 (Index) 3장 : B+-Tree Index 기본](https://kghworks.tistory.com/151)
+- [Blog : 인덱스 (Index) 4장 : Hash Index](https://kghworks.tistory.com/152)  
 
 
 ## Learn about APIs
