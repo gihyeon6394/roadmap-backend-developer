@@ -127,6 +127,8 @@
 - [Blog : 테스트 코드 - 테스트](https://kghworks.tistory.com/122)
 
 ## Containerization vs. Virtualization
+  
+- [Blog : [클라우드] 가상화 - 클라우드 컴퓨팅의 핵심 기술](https://kghworks.tistory.com/156)  
 
 ### Docker
 
