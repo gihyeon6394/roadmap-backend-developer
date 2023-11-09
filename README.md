@@ -90,6 +90,7 @@
 - [Blog : 인덱스 (Index) 3장 : B+-Tree Index 기본](https://kghworks.tistory.com/151)
 - [Blog : 인덱스 (Index) 4장 : Hash Index](https://kghworks.tistory.com/152)
 - [Blog : 인덱스 (Index) 5장 : Multiple-key Access](https://kghworks.tistory.com/153)  
+- [Blog : 인덱스 (Index) 6장 : 쓰기에 최적화된 인덱스](https://kghworks.tistory.com/157)
 
 
 ## Learn about APIs
