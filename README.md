@@ -77,6 +77,10 @@
 - [Blog : 트랜잭션 (transaction)](https://kghworks.tistory.com/89)
 - [Blog : @Transactional을 얼마나 이해했는지 보자](https://kghworks.tistory.com/106)
 
+### N+1 Problem
+
+- [Blog : [Java] JPA N+1 원리 이해하기](https://kghworks.tistory.com/158)
+
 ### Normalization
 
 - [Blog : 정규화](https://kghworks.tistory.com/76)
