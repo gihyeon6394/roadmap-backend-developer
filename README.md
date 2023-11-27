@@ -116,7 +116,13 @@
 ### ClientSide
 
 - [Blog : bfcache와 웹 브라우저 최적화 (뒤로 / 앞으로 캐시)](https://kghworks.tistory.com/117)  
-- [Blog : 웹 브라우저 캐싱 방지 - 쿼리 스트링](https://kghworks.tistory.com/65)  
+- [Blog : 웹 브라우저 캐싱 방지 - 쿼리 스트링](https://kghworks.tistory.com/65)
+
+### Server Side
+
+### Redis
+
+- [Github Redis for dummies](https://github.com/gihyeon6394/dev-essentials/blob/main/redis_for_dummies/README.md)
 
 ## Web Security Knowledge
 
@@ -130,6 +136,12 @@
 
 - [Github Junit5-action](https://github.com/gihyeon6394/Junit5-action)
 - [Blog : 테스트 코드 - 테스트](https://kghworks.tistory.com/122)
+
+## Message Borkers
+
+### Kafka
+
+- [Github Kafka The Definitive Guide](https://github.com/gihyeon6394/dev-essentials/blob/main/Kafka_The_Definitive_Guide/README.md)
 
 ## Containerization vs. Virtualization
   
