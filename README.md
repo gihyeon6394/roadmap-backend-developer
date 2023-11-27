@@ -40,7 +40,7 @@
 
 - [GitHub](https://github.com/gihyeon6394)
 - [Blog : GIT 좀 더 이해하기](https://kghworks.tistory.com/search/GIT%20%EC%A2%80%20%EB%8D%94%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-
+- [발표자료 : Git-flow 도입의 회고)(https://github.com/gihyeon6394/dev-presentation/blob/main/git_flow/README.md)
 
 ## OS and General Knowledge
 
@@ -136,6 +136,7 @@
 
 - [Github Junit5-action](https://github.com/gihyeon6394/Junit5-action)
 - [Blog : 테스트 코드 - 테스트](https://kghworks.tistory.com/122)
+- [발표자료 : 테스트 코드 도입해서 레거시 수정하기](https://github.com/gihyeon6394/dev-presentation/blob/main/JUnit/README.md)
 
 ## Message Borkers
 
