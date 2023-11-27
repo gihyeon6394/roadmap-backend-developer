@@ -120,7 +120,7 @@
 
 ### Server Side
 
-### Redis
+#### Redis
 
 - [Github Redis for dummies](https://github.com/gihyeon6394/dev-essentials/blob/main/redis_for_dummies/README.md)
 
