@@ -111,6 +111,10 @@
 
 - [Blog : JWT (JSON Web Token) 도입기 - JWT는 만능해결사인가](https://kghworks.tistory.com/118)
 
+### REST
+
+- [Github REST API Design Rulebook](https://github.com/gihyeon6394/dev-essentials/blob/main/rest_api/README.md)
+
 ## Caching  
 
 ### ClientSide
