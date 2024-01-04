@@ -12,6 +12,7 @@
 
 - [HTTP 완벽 가이드](https://github.com/gihyeon6394/book/tree/main/http-the-definitive-guide)
 - [Blog : HTTP 프로토콜 초간단 요약](https://kghworks.tistory.com/95)
+- [Blog : POST, PUT, PATCH 그리고 멱등성](https://kghworks.tistory.com/172)  
 
 
 ### DNS and how it works?
