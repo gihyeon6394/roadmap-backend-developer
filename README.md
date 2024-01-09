@@ -62,6 +62,7 @@
 
 ### Oracle
 
+- [[Blog] Oracle Database Index (19c 기준)](https://kghworks.tistory.com/176)
 - [[개발일지] 채번(採番) 개발하기](https://kghworks.tistory.com/148)
 - [[개발일지] Java application에서 RDBMS에 bulk insert](https://kghworks.tistory.com/144)
 
