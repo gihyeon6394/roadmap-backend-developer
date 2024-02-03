@@ -55,8 +55,6 @@
 - [Blog : 프로세스 (Process)와 스레드 (Thread)](https://kghworks.tistory.com/62)
 - [Blog : 병행 프로세스](https://kghworks.tistory.com/134)
 
-
-
 ## Relational Database
 
 - [Blog: 데이터베이스 시스템](https://kghworks.tistory.com/category/Programming/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
@@ -66,7 +64,6 @@
 - [[Blog] Oracle Database Index (19c 기준)](https://kghworks.tistory.com/176)
 - [[개발일지] 채번(採番) 개발하기](https://kghworks.tistory.com/148)
 - [[개발일지] Java application에서 RDBMS에 bulk insert](https://kghworks.tistory.com/144)
-
 
 ## More about Databases
 
@@ -98,7 +95,7 @@
 - [Blog : 인덱스 (Index) 4장 : Hash Index](https://kghworks.tistory.com/152)
 - [Blog : 인덱스 (Index) 5장 : Multiple-key Access](https://kghworks.tistory.com/153)  
 - [Blog : 인덱스 (Index) 6장 : 쓰기에 최적화된 인덱스](https://kghworks.tistory.com/157)
-
+- [Blog : Oracle Database Index (19c 기준)](https://kghworks.tistory.com/176)
 
 ## Learn about APIs
 
