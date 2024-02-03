@@ -41,6 +41,7 @@
 
 - [GitHub](https://github.com/gihyeon6394)
 - [Blog : GIT 좀 더 이해하기](https://kghworks.tistory.com/search/GIT%20%EC%A2%80%20%EB%8D%94%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [Blog : rebase + squash로 커밋 합치기](https://kghworks.tistory.com/179)  
 - [발표자료 : Git-flow 도입의 회고](https://github.com/gihyeon6394/dev-presentation/blob/main/git_flow/README.md)
 
 ## OS and General Knowledge
