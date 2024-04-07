@@ -43,6 +43,8 @@
 - [Blog : GIT 좀 더 이해하기](https://kghworks.tistory.com/search/GIT%20%EC%A2%80%20%EB%8D%94%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [Blog : rebase + squash로 커밋 합치기](https://kghworks.tistory.com/179)  
 - [발표자료 : Git-flow 도입의 회고](https://github.com/gihyeon6394/dev-presentation/blob/main/git_flow/README.md)
+- [[Blog] rebase + squash로 커밋 합치기](https://kghworks.tistory.com/179)
+- [[Blog] 로컬의 프로젝트별로 git config를 적용하고 싶을 때](https://kghworks.tistory.com/190)
 
 ## OS and General Knowledge
 
@@ -58,6 +60,7 @@
 ## Relational Database
 
 - [Blog: 데이터베이스 시스템](https://kghworks.tistory.com/category/Programming/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
+- [Blog : 데이터 타입 비교 : char vs varchar](https://kghworks.tistory.com/177)
 
 ### Oracle
 
