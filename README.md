@@ -68,6 +68,10 @@
 - [[개발일지] 채번(採番) 개발하기](https://kghworks.tistory.com/148)
 - [[개발일지] Java application에서 RDBMS에 bulk insert](https://kghworks.tistory.com/144)
 
+## NoSQL Databases
+
+- [[Blog] 빅 데이터 (Big Data) 1장 - Big Data Storage System](https://kghworks.tistory.com/195)
+
 ## More about Databases
 
 ### ORMs
