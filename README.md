@@ -163,7 +163,12 @@
 
 ## Containerization vs. Virtualization
   
-- [Blog : [클라우드] 가상화 - 클라우드 컴퓨팅의 핵심 기술](https://kghworks.tistory.com/156)  
+- [Blog : [클라우드] 가상화 - 클라우드 컴퓨팅의 핵심 기술](https://kghworks.tistory.com/156)
+
+### Kubernetes
+
+- [Github Hello K8s](https://github.com/gihyeon6394/hello-k8s)
+- with : https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/   
 
 ### Docker
 
